@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "comparison-tool-405701",
+  "private_key_id": "b1a0581c92c28ceaed625af5a33cce2465b91162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2hv309WEmyk/s\nXo2tYvPFq7GAtcxxxVygb71tBLhI50HmAeMX4B9r2XJ9XRwB/reYAa7LfmbS6ELb\nwfrs02dZirs4Qp+dbInMvmy50ocmPAoi8aydv2T8HTfGz5cg0Dw5m1mimpMC4Up8\nqGOG0c57gey6kooQPOheqB9l0iDTEls7PJdtfYBDFcFpNB0NJ01y6F86kvK6ST6w\n/ZcG8cBjSioIFjm8Uy9JhuRxU1dmwdd2LdluzhTtXihHVJ6zBW+tlhyldBImclpD\nBovFC6QVHUApTB3PHKYSRcI9fHd8FAtRbrRqDJBl2IWHm9n1U5xsuvxOoKMXNxU7\nipFBx2LbAgMBAAECggEAUwhDvMxnXpMIGpnEz4xFIrYBMHEDSPokMePDAzXzc06o\nPq67FOBiytgHahoSJKIv+JlDX9Tnh6gaygeLU3K0ABrJIkXEgIOgiCBUK5Am5PDJ\nF65i/PvVP483EVzb/hRcYURXWU4B9HxyOxUK+Yi16p9nBlSlM8/RUUYfylz1i653\nOzjKS9odH/oN3UmcHacEjGyqDaC3bQqfcEAmNyVVulenWrNYlSGMECY5sh+4Pqez\nq2QZTy2os0EbnEHQ1NXWsTAGnou7ImsuctS3aDu32heZeWh7x7qJ1bOwWip4N0QH\nYieW5jVhfssSGPEfdYoLYKoXjm3f+9X8KKMEtXvBQQKBgQDwyJqqsrVlaiPdmbjP\nCwGB6yuW64uHo2nmwyIKTFCOegh3k6xJi+DP/E5IZ4b76GcUESGegQYWyjfallhh\nY/vowepcEknZwBOeluUANMRpM7v7sHI/YJtlohMJzblxcKRL9eqVpCIGssi8O1mf\nI2fwX9WJ6Led2/YYahJCGoccoQKBgQDCD+r1yIIuqkYV3D8J5100TaMNWDOj4oj9\naoijvUClOhKm/P2JCjDyhHDUOkjhfzJOywBkOHy2eN2Di4RmiYiiPmYsshd+wC+V\nc8HD62jUY6foHJyDn7I+VRoixNVWCsgkxEanrwefxlfHi8p9vYOOoC7AQCrTmhZe\n/IgSWqOx+wKBgQC687cLVIh9fqTsWX/h2fTIsBT/MFH89cezMc1LW6esiFnspk8+\nJ4pdUtRhaWioTPFD5m1JCXr11Pr7EIL800nzliTmahjHJljVaOnTeCUMXevWZ1C9\nnr/pcKcBlKcoykH27LDAkVkOBGDRre9PHYmFXJOLaZKv0erJWApnIvvHIQKBgCjW\n8LuI1ty7OMSg9SNAbXz0WbwVM8jpg6rRILBUw6YB8qrx0ulkG6jt9lCzc2MBQbUT\nQ6HTwWslRHjKg7KQfxCl0RrW39rs1xa8pap1gDoyPsO6QbXxhbFYd4eZpMvWuQgD\nxlrDmvck5pQ39wU/PNBnJW+QEXM2mj6jJn+2U3zBAoGBAJJJNh/iLLHEMOy3qhJL\n+70SMnGma35i9DAySXNXGeNjZ3l1W2lilug/h0I+Pm4QF7wQskhMxMJxjVPnUaix\ntiF7zm1IAYNhWuRGRJfWF1z956F9WMUSaDTehj0DThSGq0fBINkL2SpFV+EDkGbf\ncLY/SKC5+ApUlC9v+fyvLEPo\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-bigquery-sa@comparison-tool-405701.iam.gserviceaccount.com",
+  "client_id": "117119385534763314437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-bigquery-sa%40comparison-tool-405701.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
